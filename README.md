@@ -49,12 +49,12 @@ Other metadata (depending on implementation)
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Kirisaki00/YoutubeScraper.git
 
 
 Navigate to the project directory:
 
-cd your-repo-name
+cd YoutubeScraper
 
 
 Open the notebook:
@@ -81,5 +81,5 @@ Improve scraping speed and reliability
 
 👤 Author
 
-Your Name
+Anupam Singh
 Student | Python Enthusiast | Data Science Learner
